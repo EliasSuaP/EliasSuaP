@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200"/>
     <h1 align="center">Hi 👋, I'm Elías Suarez.</h1>
-    <h3 align="center">A web fullstack development from Chile. I like leaning new lenguages of programming.</h3>
+    <h3 align="center">A web fullstack development from Chile. I like learning new lenguages of programming.</h3>
 </div>
 
 <div id="badges" align="center">

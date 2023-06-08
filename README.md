@@ -19,7 +19,26 @@
 ---
 
 ### About me:
+
+- 📫 How to reach me: elias.fsp@gmail.com
+- 📚 I'm currently learning **PYTHON, DJANGO y POSTGRESQL**
+
+##### 🛠 Lenguges and tools:
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="boostrap" width="40" height="40"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40">
+</div>
 <!--
+https://eliassuap.github.io/Consumo-API-digimon/#
+https://eliassuap.github.io/Clon-de-pagina/
+https://eliassuap.github.io/Calculadora/
 **EliasSuaP/EliasSuaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

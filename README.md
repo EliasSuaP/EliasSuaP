@@ -21,7 +21,7 @@
 ### About me:
 
 - 📫 How to reach me: elias.fsp@gmail.com
-- 📚 I'm currently learning **PYTHON, DJANGO y POSTGRESQL**
+- 📚 I'm currently learning **PYTHON, DJANGO and POSTGRESQL**
 
 ##### 🛠 Lenguges and tools:
 <div align="center">

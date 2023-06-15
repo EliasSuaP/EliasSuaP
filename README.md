@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200"/>
     <h1 align="center">Hi 👋, I'm Elías Suarez.</h1>
-    <h3 align="center">A web fullstack development from Chile. I like learning new lenguages of programming.</h3>
+    <h3 align="center">A web fullstack development from Chile. I specialize in web application development.</h3>
+    <h4 align="center">I am constantly learning and updating my skills to stay up-to-date with the latest trends and technologies. I love collaborating on interesting and challenging projects. If you're looking for a committed and passionate developer, feel free to reach out!"</h4>
 </div>
 
 <div id="badges" align="center">

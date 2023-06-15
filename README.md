@@ -23,6 +23,7 @@
 
 - 📫 How to reach me: elias.fsp@gmail.com
 - 📚 I'm currently learning **PYTHON, DJANGO and POSTGRESQL**
+- 📌 In my next steps, I plan to learn the ReactJS framework for frontend and FastAPI for backend development.
 
 ##### 🛠 Lenguges and tools:
 <div align="center">

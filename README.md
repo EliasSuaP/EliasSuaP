@@ -37,10 +37,24 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40">
 </div>
+
+
+### Projects
+
+#### Front End:
+- [Consumo Api JS](https://eliassuap.github.io/Consumo-API-digimon/#): En este proyecto realizo consumo de una api pública para renderizar el contenido en la página web mediante el método fetch de javascript.
+- [Clon de página](https://eliassuap.github.io/Clon-de-pagina/): Se nos pide clonar una página de internet solamente con boostrap ignorando las funcionalidades.
+- [Calculadora](https://eliassuap.github.io/Calculadora/): Esta calculadora utiliza una fecha ingresada (que debe ser anterior a la fecha de hoy) y realiza el calculo de cuantos años meses y días han pasado hasta hoy.
+
+#### Full stack:
+- [INKSOUL](https://github.com/EliasSuaP/InkSoul-ecamp-project): Proyecto libre en el cuál creo una aplicación web que cuenta con varias secciones y funcionalidades las principales son un formulario que permite reservar horas para el estudio de tatuajes al ser enviado entrega un mensaje de agradecimiento, barra de navegción, y permite loguearse al estar logueado da un mensaje de bienvenida y se habilita el botón de comprar en los kits de venta.
+- [Practica final orm Django](https://github.com/EliasSuaP/Practica_final_ecamp_django): Se utiliza django para mostrar contenido dinámico desde la base de datos al front y permite crear objetos, eliminar y editar el contenido al usuario, un CRUD.
 <!--
 https://eliassuap.github.io/Consumo-API-digimon/#
 https://eliassuap.github.io/Clon-de-pagina/
 https://eliassuap.github.io/Calculadora/
+https://github.com/EliasSuaP/Practica_final_ecamp_django
+https://github.com/EliasSuaP/InkSoul-ecamp-project
 **EliasSuaP/EliasSuaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

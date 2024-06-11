@@ -43,7 +43,7 @@
 
 #### Front End:
 - [Consumo Api JS](https://eliassuap.github.io/Consumo-API-digimon/#): En este proyecto realizo consumo de una api pública para renderizar el contenido en la página web mediante el método fetch de javascript.
-- [Clon de página](https://eliassuap.github.io/Clon-de-pagina/): Se nos pide clonar una página de internet solamente con boostrap ignorando las funcionalidades.
+- [Clon de página](https://eliassuap.github.io/Clon-de-pagina/): Se nos pide clonar una página de internet solamente con bootstrap ignorando las funcionalidades.
 - [Calculadora](https://eliassuap.github.io/Calculadora/): Esta calculadora utiliza una fecha ingresada (que debe ser anterior a la fecha de hoy) y realiza el calculo de cuantos años meses y días han pasado hasta hoy.
 
 #### Full stack:
